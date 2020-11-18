@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@simplr-wc/router": "^6.0.0-prerelease-4",
+    "@simplr-wc/router": "^6.0.0",
     "@simplr-wc/router-react-middleware": "file:..",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
