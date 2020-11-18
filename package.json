@@ -1,0 +1,19 @@
+{
+  "name": "@simplr-wc/router-react-middleware",
+  "version": "1.0.0",
+  "description": "A Middleware for Simplr Router to enable React support.",
+  "main": "react-middleware.js",
+  "author": "Matsuuu <huhta.matias@gmail.com> (https://matsu.fi/)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simplr/simplr-router-react-middleware"
+  }
+}
