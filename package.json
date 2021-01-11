@@ -1,6 +1,6 @@
 {
   "name": "@simplr-wc/router-react-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Middleware for Simplr Router to enable React support.",
   "main": "react-middleware.js",
   "author": "Matsuuu <huhta.matias@gmail.com> (https://matsu.fi/)",
